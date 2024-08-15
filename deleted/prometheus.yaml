@@ -1,5 +1,5 @@
 // example app to deploy with argocd
-// rename extension to yaml when you want to deploy it
+// move it to /root-app/templates folder 
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
